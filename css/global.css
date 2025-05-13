@@ -180,6 +180,8 @@ body {
 	display: block;
 }
 
+/* FILTER */
+
 .filter-wrapper {
 	position: absolute;
 	background: var(--identity-primary);
@@ -237,6 +239,7 @@ body {
 
 .filter-wrap input {
 	accent-color: var(--identity-primary);
+	cursor: pointer;
 }
 
 /* POKEMON LIST */
