@@ -23,7 +23,7 @@ function handleInputChange(inputElement) {
 }
 
 function handleSearchCloseOnClick() {
-	document.querySelector("#search-onput").value = "";
+	document.querySelector("#search-input").value = "";
 	document
 		.querySelector("#search-close-icon")
 		.classList.remove("search-close-icon-visible");
