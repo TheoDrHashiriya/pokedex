@@ -241,6 +241,9 @@ body {
 	accent-color: var(--identity-primary);
 	cursor: pointer;
 }
+.filter-wrap label {
+	cursor: pointer;
+}
 
 /* POKEMON LIST */
 
